@@ -2,12 +2,13 @@
     {
       "color": "#FF0000",
       "dopname": "(X2)",
-      "maxonline": "1000",
+      "maxonline": "100",
       "name": "RED",
-      "online": "1",
+      "online": "2",
       "ip": "185.207.214.14",
       "port": "1281"
     }
 
 ]
+
 
